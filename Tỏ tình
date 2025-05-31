@@ -1,1 +1,11 @@
-index.htlm
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chào mừng mày!</title>
+</head>
+<body>
+  <h1>🖤 Chào mày tới web của tao 😎</h1>
+  <p>Đây là trang web được host miễn phí bằng GitHub Pages.</p>
+</body>
+</html>
+
